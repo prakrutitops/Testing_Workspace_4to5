@@ -1,2 +1,17 @@
 tops carrer center
 linkedin
+
+Testing: Testing is a process used to identify correctness,completeness and quality of
+developed computer software.
+
+Types of Testing:
+
+1)Manual Testing -> will be done by user
+2)Automation Testing -> will be done by software
+
+Manual Testing:
+
+QA=>Quality Assurance
+QC=>Quality Controller
+Software Tester
+Manual Tester
