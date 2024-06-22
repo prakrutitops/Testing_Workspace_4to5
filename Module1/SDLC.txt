@@ -1,0 +1,32 @@
+SDLC -> Software Development Lifecycle
+
+
+Stages:
+1)Requirement Gathering:
+
+Types of Requirement:
+1)Functional Requirement->
+2)Non Functional Requirement->
+
+2)Analysis
+
+3)Designing
+
+4)Implentation
+
+5)Testing->production
+->blackbox
+->white
+->smoke
+->sanity
+->greybox
+->regression
+->retesting
+
+
+6)Maintenance
+1)Corrective
+2)Adaptive
+3)Perfective
+
+Rfflow
