@@ -1,0 +1,3 @@
+SELECT * from address LEFT JOIN student on address.id = student.id
+UNION
+SELECT * from address RIGHT JOIN student on address.id = student.id
